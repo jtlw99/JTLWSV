@@ -1,0 +1,4 @@
+start the server:
+java -Xmx16G -Xms4G -jar server.jar --nogui
+copy paste in terminal
+ip: effects-iowa.joinmc.link        
