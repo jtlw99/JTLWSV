@@ -1,0 +1,29 @@
+motds:
+  - "<gradient:red:blue>Welcome to our server!</gradient>"
+  - "<yellow>Explore the world of Minecraft with us!</yellow>"
+  - "<green>Join us and have fun!</green>"
+  - "<yellow>ROBLOX IS BETTER</yellow>"
+  - "<gradient:yellow:white>INGLIS OR SPANISH???</gradient>"
+  - "<red>whoever move first is gay</red>"
+  - "<yellow>THERE IS ONLY ONE GOD</yellow>"
+  - "<red>Server is offline. Check again later!</red>"
+  - "<green>Added dupe</green>"
+
+icons:
+  - "icons/1.png"
+  - "icons/2.png"
+  - "icons/3.png"
+  - "icons/4.png"
+  - "icons/5.png"
+  - "icons/6.png"
+  - "icons/7.png"
+  - "icons/8.png"
+  - "icons/9.png"
+  - "icons/10.png"
+
+
+messages:
+  no_permission: "<red>You do not have permission to run this command</red>"
+  invalid_input: "<red>Invalid input, Please use 'true' or 'false'</red>"
+  setting_updated: "<green>Random MOTD feature updated to {status}</green>"
+  random_icon_toggle: "<green>Random icon feature is now <state></green>"
